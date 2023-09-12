@@ -5,7 +5,7 @@
 <br/>
 warning & Disclaimer :
 The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
-<br/>
+<br>
 Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
 ## Concerns
@@ -171,10 +171,3 @@ I like to share my progress which also helps motivate me to finish the course fa
 First of all, a huge thank you to Prof. David J. Malan and the rest of the CS50 staff for giving us this free learning opportunity. I thoroughly recommend the CS50 course for anyone who wants to get into or improve their skills in the Computer Science field.
 
 <br>
-
-If you'd like to know more about CS50, I'll leave a few link down below.
-
-- **[Official Website](https://cs50.harvard.edu/x/2023/)**
-- **[CS50 Introduction on YouTube](https://www.youtube.com/watch?v=3oFAJtFE8YU)**
-- **[CS50 on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)**
-- **[CS50 on Wikipedia](https://en.wikipedia.org/wiki/CS50)**
