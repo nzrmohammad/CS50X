@@ -1,7 +1,7 @@
-# CS50P 2023 --> Programming with Python ![Stars](https://img.shields.io/github/stars/nzrmohammad/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/nzrmohammad/CS50P?label=Watchers)
+# CS50X 2023 --> Introduction to Computer Science ![Stars](https://img.shields.io/github/stars/nzrmohammad/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/nzrmohammad/CS50P?label=Watchers)
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
-### These are my solutions for CS50P Introduction to Programming with Python 2023.
-### Final Project : [Telegram Scraper](#)
+### These are my solutions for CS50X Introduction to Computer Science 2023.
+### Final Project : [Blog + New Admin Panel + Django](#)
 <br/>
 warning & Disclaimer :
 The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
