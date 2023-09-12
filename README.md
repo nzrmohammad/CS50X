@@ -33,13 +33,13 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-1 - Population Growth](Week%201%20-%20C/Lab1/Population/population.c)** - _determine how long it takes for a population to reach a particular size._
+- **[L-1 - Population Growth](Week%201%20/Lab1/Population/population.c)** - _determine how long it takes for a population to reach a particular size._
 
-- **[PS-1 - Mario Less](Week%201%20-%20C/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
+- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
 
-- **[PS-1 - Mario More](Week%201%20-%20C/ProblemSet1/MarioMore/mario.c)** - _create an adjacent pyramid of blocks._
+- **[PS-1 - Mario More](Week%201/ProblemSet1/MarioMore/mario.c)** - _create an adjacent pyramid of blocks._
 
-- **[PS-1 - Cash](Week%201%20-%20C/ProblemSet1/Cash/cash.c)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
+- **[PS-1 - Cash](Week%201/ProblemSet1/Cash/cash.c)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
 ---
 
