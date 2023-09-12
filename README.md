@@ -157,7 +157,7 @@
 
 ## **warning & Disclaimer** :
 The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
-## Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
+## **Cheating violates** the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
 ## **Concerns**
 I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
