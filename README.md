@@ -156,19 +156,11 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ---
 
-### :arrow_forward: **Final Project**
-
-<br>
-
-- **[Portfolio Website](https://github.com/BogdanOtava/Portfolio-Website)** - _full-stack portfolio website_.
-
----
-
 ### :arrow_forward: **Scratch**
 
 <br>
 
-- **[Whack-a-Mouse](https://scratch.mit.edu/projects/819729030)** - _a simple Scratch game which is a combination of Space Invaders and Whack-a-Mole._
+- **[Whack-a-Mouse](#)** - _a simple Scratch game which is a combination of Space Invaders and Whack-a-Mole._
 
 ---
 
