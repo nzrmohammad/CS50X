@@ -2,16 +2,6 @@
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50X Introduction to Computer Science 2023.
 ### Final Project : [Blog + New Admin Panel + Django](#)
-<br/>
-warning & Disclaimer :
-The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
-<br>
-<br/>
-Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
-
-## Concerns
-I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
-<br/>
 
 ## Table of Contents
 
@@ -165,7 +155,13 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ---
 
-<br>
+## **warning & Disclaimer** :
+The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
+## Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
+
+## **Concerns**
+I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
+
 
 ## :books: **Credits**
 
