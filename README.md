@@ -81,7 +81,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-5 Inheritance](Week%205/Lab5/Inheritance/Inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
+- **[L-5 Inheritance](Week%205/Lab5/Inheritance/inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
 
 - **[PS-5 Speller](Week%205/ProblemSet5/Speller/Speller.c)** - _program that spell-checks a file using a hash table._
 
