@@ -105,7 +105,7 @@
 
 - **[PS-6 Readability](Week%206/ProblemSet6/SentimentalReadability/Readability.py)** - _computes the approximate grade level needed to comprehend some text._
 
-- **[PS-6 DNA](Week%206/ProblemSet6/DNA/Dna.py)** -  _program that identifies a person based on their DNA._
+- **[PS-6 DNA](Week%206/ProblemSet6/DNA/DNA.py)** -  _program that identifies a person based on their DNA._
 
 ---
 
