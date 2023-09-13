@@ -25,7 +25,7 @@
 
 - **[L-1 - Population Growth](Week%201/Lab1/Population/Population.c)** - _determine how long it takes for a population to reach a particular size._
 
-- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/Mario.c)** - _create a right-aligned pyramid of blocks._
+- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
 
 - **[PS-1 - Mario More](Week%201/ProblemSet1/MarioMore/Mario.c)** - _create an adjacent pyramid of blocks._
 
@@ -39,7 +39,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-2 Scrabble](Week%202/Lab2/Scrabble/Scrabble.c)** - _determine which of two scrabble words is worth more._
+- **[L-2 Scrabble](Week%202/Lab2/Scrabble/scrabble.c)** - _determine which of two scrabble words is worth more._
 
 - **[PS-2 Caesar](Week%202/ProblemSet2/Caesar/Caesar.c)** - _program that encrypts messages using Caesar's cipher._
 
@@ -53,7 +53,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-3 Sort](Week%203/Lab3/Sort/Answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
+- **[L-3 Sort](Week%203/Lab3/Sort/answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
 
 - **[PS-3 Plurality](Week%203/ProblemSet3/Plurality/Plurality.c)** - _program that runs a plurality election._
 
@@ -67,9 +67,9 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-4 Volume](Week%204/Lab4/Volume/Volume.c)** - _modify the volume of an audio file._
+- **[L-4 Volume](Week%204/Lab4/Volume/volume.c)** - _modify the volume of an audio file._
 
-- **[PS-4 Filter Less](Week%204/ProblemSet4/FilterLess/Filter.c)** - _program that applies filters to BMPs._
+- **[PS-4 Filter Less](Week%204/ProblemSet4/FilterLess/filter.c)** - _program that applies filters to BMPs._
 
 - **[PS-4 Recover](Week%204/ProblemSet4/Recover/Recover.c)** - _program that recovers JPEGs from a forensic image._
 
@@ -81,7 +81,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-5 Inheritance](Week%205/Lab5/Inheritance/Inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
+- **[L-5 Inheritance](Week%205/Lab5/Inheritance/inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
 
 - **[PS-5 Speller](Week%205/ProblemSet5/Speller/Speller.c)** - _program that spell-checks a file using a hash table._
 
@@ -93,19 +93,19 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **[L-6 World Cup](Week%206/Lab6/WorldCup/Tournament.py)** - _program to run simulations of the FIFA World Cup._
+- **[L-6 World Cup](Week%206/Lab6/WorldCup/tournament.py)** - _program to run simulations of the FIFA World Cup._
 
 - **[PS-6 Mario Less](Week%206/ProblemSet6/SentimentalMarioLess/Mario.py)** - _create a right-aligned pyramid of blocks._
 
 - **[PS-6 Mario More](Week%206/ProblemSet6/SentimentalMarioMore/Mario.py)** - _create an adjacent pyramid of blocks._
 
-- **[PS-6 Cash](Week%206/ProblemSet6/SentimentalCash/Cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
+- **[PS-6 Cash](Week%206/ProblemSet6/SentimentalCash/cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
 - **[PS-6 Credit](Week%206/ProblemSet6/SentimentalCredit/Credit.py)** - _program that determines whether a provided credit card number is valid according to Luhn's algorithm._
 
 - **[PS-6 Readability](Week%206/ProblemSet6/SentimentalReadability/Readability.py)** - _computes the approximate grade level needed to comprehend some text._
 
-- **[PS-6 DNA](Week%206/ProblemSet6/DNA/Dna.py)** -  _program that identifies a person based on their DNA._
+- **[PS-6 DNA](Week%206/ProblemSet6/DNA/DNA.py)** -  _program that identifies a person based on their DNA._
 
 ---
 
