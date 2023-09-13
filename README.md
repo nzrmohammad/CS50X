@@ -129,9 +129,9 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **[L-8 Trivia](Week%208/Lab8/Trivia/Index.html)** - _simple webpage that lets users answer trivia questions._
+- **[L-8 Trivia](Week%208/Lab8/Trivia/index.html)** - _simple webpage that lets users answer trivia questions._
 
-- **[PS-8 Homepage](Week%208/ProblemSet8/Homepage/Index.html)** - _simple web application with multiple pages._
+- **[PS-8 Homepage](Week%208/ProblemSet8/Homepage/index.html)** - _simple web application with multiple pages._
 
 ---
 
@@ -141,7 +141,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **[L-9 Birthdays](Week%209/Lab9/Birthdays/App.py)** - _web application that keeps track of birthdays._
+- **[L-9 Birthdays](Week%209/Lab9/Birthdays/app.py)** - _web application that keeps track of birthdays._
 
 - **[PS-9 Finance](Week%209/ProblemSet9/Finance/App.py)** - _website via which users can 'buy' and 'sell' stocks._
 
