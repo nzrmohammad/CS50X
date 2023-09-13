@@ -93,13 +93,13 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **[L-6 World Cup](Week%206/Lab6/WorldCup/Tournament.py)** - _program to run simulations of the FIFA World Cup._
+- **[L-6 World Cup](Week%206/Lab6/WorldCup/tournament.py)** - _program to run simulations of the FIFA World Cup._
 
 - **[PS-6 Mario Less](Week%206/ProblemSet6/SentimentalMarioLess/Mario.py)** - _create a right-aligned pyramid of blocks._
 
 - **[PS-6 Mario More](Week%206/ProblemSet6/SentimentalMarioMore/Mario.py)** - _create an adjacent pyramid of blocks._
 
-- **[PS-6 Cash](Week%206/ProblemSet6/SentimentalCash/Cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
+- **[PS-6 Cash](Week%206/ProblemSet6/SentimentalCash/cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
 - **[PS-6 Credit](Week%206/ProblemSet6/SentimentalCredit/Credit.py)** - _program that determines whether a provided credit card number is valid according to Luhn's algorithm._
 
