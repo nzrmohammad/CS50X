@@ -53,7 +53,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-3 Sort](Week%203/Lab3/Sort/Answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
+- **[L-3 Sort](Week%203/Lab3/Sort/answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
 
 - **[PS-3 Plurality](Week%203/ProblemSet3/Plurality/Plurality.c)** - _program that runs a plurality election._
 
@@ -67,9 +67,9 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-4 Volume](Week%204/Lab4/Volume/Volume.c)** - _modify the volume of an audio file._
+- **[L-4 Volume](Week%204/Lab4/Volume/volume.c)** - _modify the volume of an audio file._
 
-- **[PS-4 Filter Less](Week%204/ProblemSet4/FilterLess/Filter.c)** - _program that applies filters to BMPs._
+- **[PS-4 Filter Less](Week%204/ProblemSet4/FilterLess/filter.c)** - _program that applies filters to BMPs._
 
 - **[PS-4 Recover](Week%204/ProblemSet4/Recover/Recover.c)** - _program that recovers JPEGs from a forensic image._
 
