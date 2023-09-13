@@ -25,7 +25,7 @@
 
 - **[L-1 - Population Growth](Week%201/Lab1/Population/Population.c)** - _determine how long it takes for a population to reach a particular size._
 
-- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/Mario.c)** - _create a right-aligned pyramid of blocks._
+- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
 
 - **[PS-1 - Mario More](Week%201/ProblemSet1/MarioMore/Mario.c)** - _create an adjacent pyramid of blocks._
 
@@ -39,7 +39,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-2 Scrabble](Week%202/Lab2/Scrabble/Scrabble.c)** - _determine which of two scrabble words is worth more._
+- **[L-2 Scrabble](Week%202/Lab2/Scrabble/scrabble.c)** - _determine which of two scrabble words is worth more._
 
 - **[PS-2 Caesar](Week%202/ProblemSet2/Caesar/Caesar.c)** - _program that encrypts messages using Caesar's cipher._
 
