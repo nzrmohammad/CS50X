@@ -2,16 +2,6 @@
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50X Introduction to Computer Science 2023.
 ### Final Project : [Blog + New Admin Panel + Django](#)
-<br/>
-warning & Disclaimer :
-The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
-<br>
-<br/>
-Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
-
-## Concerns
-I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
-<br/>
 
 ## Table of Contents
 
@@ -33,13 +23,13 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-1 - Population Growth](Week%201%20-%20C/Lab1/Population/population.c)** - _determine how long it takes for a population to reach a particular size._
+- **[L-1 - Population Growth](Week%201/Lab1/Population/Population.c)** - _determine how long it takes for a population to reach a particular size._
 
-- **[PS-1 - Mario Less](Week%201%20-%20C/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
+- **[PS-1 - Mario Less](Week%201/ProblemSet1/MarioLess/Mario.c)** - _create a right-aligned pyramid of blocks._
 
-- **[PS-1 - Mario More](Week%201%20-%20C/ProblemSet1/MarioMore/mario.c)** - _create an adjacent pyramid of blocks._
+- **[PS-1 - Mario More](Week%201/ProblemSet1/MarioMore/Mario.c)** - _create an adjacent pyramid of blocks._
 
-- **[PS-1 - Cash](Week%201%20-%20C/ProblemSet1/Cash/cash.c)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
+- **[PS-1 - Cash](Week%201/ProblemSet1/Cash/Cash.c)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
 ---
 
@@ -49,11 +39,11 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-2 Scrabble](Week%202%20-%20Arrays/Lab2/Scrabble/scrabble.c)** - _determine which of two scrabble words is worth more._
+- **[L-2 Scrabble](Week%202/Lab2/Scrabble/Scrabble.c)** - _determine which of two scrabble words is worth more._
 
-- **[PS-2 Caesar](Week%202%20-%20Arrays/ProblemSet2/Caesar/caesar.c)** - _program that encrypts messages using Caesar's cipher._
+- **[PS-2 Caesar](Week%202/ProblemSet2/Caesar/Caesar.c)** - _program that encrypts messages using Caesar's cipher._
 
-- **[PS-2 Readability](Week%202%20-%20Arrays/ProblemSet2/Readability/readability.c)** - _computes the approximate grade level needed to comprehend some text._
+- **[PS-2 Readability](Week%202/ProblemSet2/Readability/Readability.c)** - _computes the approximate grade level needed to comprehend some text._
 
 ---
 
@@ -63,11 +53,11 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-3 Sort](Week%203%20-%20Algorithms/Lab3/Sort/answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
+- **[L-3 Sort](Week%203/Lab3/Sort/Answers.txt)** - _analyze three sorting programs to determine which algorithms they use._
 
-- **[PS-3 Plurality](Week%203%20-%20Algorithms/ProblemSet3/Plurality/plurality.c)** - _program that runs a plurality election._
+- **[PS-3 Plurality](Week%203/ProblemSet3/Plurality/Plurality.c)** - _program that runs a plurality election._
 
-- **[PS-3 Runoff](Week%203%20-%20Algorithms/ProblemSet3/Runoff/runoff.c)** - _program that runs a runoff election._
+- **[PS-3 Runoff](Week%203/ProblemSet3/Runoff/Runoff.c)** - _program that runs a runoff election._
 
 ---
 
@@ -77,11 +67,11 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-4 Volume](Week%204%20-%20Memory/Lab4/Volume/volume.c)** - _modify the volume of an audio file._
+- **[L-4 Volume](Week%204/Lab4/Volume/Volume.c)** - _modify the volume of an audio file._
 
-- **[PS-4 Filter Less](Week%204%20-%20Memory/ProblemSet4/FilterLess/filter.c)** - _program that applies filters to BMPs._
+- **[PS-4 Filter Less](Week%204/ProblemSet4/FilterLess/Filter.c)** - _program that applies filters to BMPs._
 
-- **[PS-4 Recover](Week%204%20-%20Memory/ProblemSet4/Recover/recover.c)** - _program that recovers JPEGs from a forensic image._
+- **[PS-4 Recover](Week%204/ProblemSet4/Recover/Recover.c)** - _program that recovers JPEGs from a forensic image._
 
 ---
 
@@ -91,9 +81,9 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **[L-5 Inheritance](Week%205%20-%20Data%20Structures/Lab5/Inheritance/inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
+- **[L-5 Inheritance](Week%205/Lab5/Inheritance/Inheritance.c)** - _simulates the inheritance of blood types for each member of a family._
 
-- **[PS-5 Speller](Week%205%20-%20Data%20Structures/ProblemSet5/Speller/speller.c)** - _program that spell-checks a file using a hash table._
+- **[PS-5 Speller](Week%205/ProblemSet5/Speller/Speller.c)** - _program that spell-checks a file using a hash table._
 
 ---
 
@@ -103,19 +93,19 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **[L-6 World Cup](Week%206%20-%20Python/Lab6/WorldCup/tournament.py)** - _program to run simulations of the FIFA World Cup._
+- **[L-6 World Cup](Week%206/Lab6/WorldCup/Tournament.py)** - _program to run simulations of the FIFA World Cup._
 
-- **[PS-6 Mario Less](Week%206%20-%20Python/ProblemSet6/SentimentalMarioLess/mario.py)** - _create a right-aligned pyramid of blocks._
+- **[PS-6 Mario Less](Week%206/ProblemSet6/SentimentalMarioLess/Mario.py)** - _create a right-aligned pyramid of blocks._
 
-- **[PS-6 Mario More](Week%206%20-%20Python/ProblemSet6/SentimentalMarioMore/mario.py)** - _create an adjacent pyramid of blocks._
+- **[PS-6 Mario More](Week%206/ProblemSet6/SentimentalMarioMore/Mario.py)** - _create an adjacent pyramid of blocks._
 
-- **[PS-6 Cash](Week%206%20-%20Python/ProblemSet6/SentimentalCash/cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
+- **[PS-6 Cash](Week%206/ProblemSet6/SentimentalCash/Cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
-- **[PS-6 Credit](Week%206%20-%20Python/ProblemSet6/SentimentalCredit/credit.py)** - _program that determines whether a provided credit card number is valid according to Luhn's algorithm._
+- **[PS-6 Credit](Week%206/ProblemSet6/SentimentalCredit/Credit.py)** - _program that determines whether a provided credit card number is valid according to Luhn's algorithm._
 
-- **[PS-6 Readability](Week%206%20-%20Python/ProblemSet6/SentimentalReadability/readability.py)** - _computes the approximate grade level needed to comprehend some text._
+- **[PS-6 Readability](Week%206/ProblemSet6/SentimentalReadability/Readability.py)** - _computes the approximate grade level needed to comprehend some text._
 
-- **[PS-6 DNA](Week%206%20-%20Python/ProblemSet6/DNA/dna.py)** -  _program that identifies a person based on their DNA._
+- **[PS-6 DNA](Week%206/ProblemSet6/DNA/Dna.py)** -  _program that identifies a person based on their DNA._
 
 ---
 
@@ -125,11 +115,11 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- **[L-7 Songs](Week%207%20-%20SQL/Lab7/Songs/)** - _SQL queries that answer questions about a database of songs._
+- **[L-7 Songs](Week%207/Lab7/Songs/)** - _SQL queries that answer questions about a database of songs._
 
-- **[PS-7 Movies](Week%207%20-%20SQL/ProblemSet7/Movies/)** - _SQL queries that answer questions about a database of movies._
+- **[PS-7 Movies](Week%207/ProblemSet7/Movies/)** - _SQL queries that answer questions about a database of movies._
 
-- **[PS-8 Fiftyville](Week%207%20-%20SQL/ProblemSet7/Fiftyville/log.sql)** - _write SQL queries to solve a mystery._
+- **[PS-8 Fiftyville](Week%207/ProblemSet7/Fiftyville/Log.sql)** - _write SQL queries to solve a mystery._
 
 ---
 
@@ -139,9 +129,9 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **[L-8 Trivia](Week%208%20-%20HTML,%20CSS,%20JavaScript/Lab8/Trivia/index.html)** - _simple webpage that lets users answer trivia questions._
+- **[L-8 Trivia](Week%208/Lab8/Trivia/Index.html)** - _simple webpage that lets users answer trivia questions._
 
-- **[PS-8 Homepage](Week%208%20-%20HTML,%20CSS,%20JavaScript/ProblemSet8/Homepage/index.html)** - _simple web application with multiple pages._
+- **[PS-8 Homepage](Week%208/ProblemSet8/Homepage/Index.html)** - _simple web application with multiple pages._
 
 ---
 
@@ -151,9 +141,9 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **[L-9 Birthdays](Week%209%20-%20Flask/Lab9/Birthdays/app.py)** - _web application that keeps track of birthdays._
+- **[L-9 Birthdays](Week%209/Lab9/Birthdays/App.py)** - _web application that keeps track of birthdays._
 
-- **[PS-9 Finance](Week%209%20-%20Flask/ProblemSet9/Finance/app.py)** - _website via which users can 'buy' and 'sell' stocks._
+- **[PS-9 Finance](Week%209/ProblemSet9/Finance/App.py)** - _website via which users can 'buy' and 'sell' stocks._
 
 ---
 
@@ -165,10 +155,14 @@ I like to share my progress which also helps motivate me to finish the course fa
 
 ---
 
-<br>
+:books: **warning & Disclaimer**
+The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
 
-## :books: **Credits**
+:books: **Cheating violates**
+the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
+:books: **Concerns**
+I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
+
+:books: **Credits**
 First of all, a huge thank you to Prof. David J. Malan and the rest of the CS50 staff for giving us this free learning opportunity. I thoroughly recommend the CS50 course for anyone who wants to get into or improve their skills in the Computer Science field.
-
-<br>
