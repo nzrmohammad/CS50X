@@ -155,14 +155,14 @@
 
 ---
 
-:books: **warning & Disclaimer** : 
-The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
+:warning: **Warning & Disclaimer**:
+The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
 
-:books: **Cheating violates**  : 
-the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
+:no_entry_sign: **Cheating Violates**:
+The [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
-:books: **Concerns**  : 
-I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
+:email: **Concerns**:
+I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <sanazarei79@gmail.com>.
 
-:books: **Credits**  : 
+:clap: **Credits**:
 First of all, a huge thank you to Prof. David J. Malan and the rest of the CS50 staff for giving us this free learning opportunity. I thoroughly recommend the CS50 course for anyone who wants to get into or improve their skills in the Computer Science field.
